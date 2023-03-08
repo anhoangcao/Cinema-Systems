@@ -7,3 +7,12 @@ F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DAL\obj\Debug\DA
 F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DAL\obj\Debug\DAL.csproj.CopyComplete
 F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DAL\obj\Debug\DAL.dll
 F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DAL\obj\Debug\DAL.pdb
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\bin\Debug\DAL.dll
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\bin\Debug\DAL.pdb
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\bin\Debug\DTO.dll
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\bin\Debug\DTO.pdb
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\obj\Debug\DAL.dll
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\obj\Debug\DAL.pdb

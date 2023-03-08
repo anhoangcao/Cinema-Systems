@@ -9,3 +9,14 @@ F:\Users\Admin\Cinema management\Cinema-Systems\Film management\BLL\obj\Debug\BL
 F:\Users\Admin\Cinema management\Cinema-Systems\Film management\BLL\obj\Debug\BLL.csproj.CopyComplete
 F:\Users\Admin\Cinema management\Cinema-Systems\Film management\BLL\obj\Debug\BLL.dll
 F:\Users\Admin\Cinema management\Cinema-Systems\Film management\BLL\obj\Debug\BLL.pdb
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\BLL\bin\Debug\BLL.dll
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\BLL\bin\Debug\BLL.pdb
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\BLL\bin\Debug\DAL.dll
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\BLL\bin\Debug\DTO.dll
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\BLL\bin\Debug\DAL.pdb
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\BLL\bin\Debug\DTO.pdb
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\BLL\obj\Debug\BLL.dll
+C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\BLL\obj\Debug\BLL.pdb
