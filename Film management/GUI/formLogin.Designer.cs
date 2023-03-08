@@ -42,13 +42,9 @@
             this.guna2GradientButton1 = new Guna.UI2.WinForms.Guna2GradientButton();
             this.guna2AnimateWindow2 = new Guna.UI2.WinForms.Guna2AnimateWindow(this.components);
             this.guna2TextBox2 = new Guna.UI2.WinForms.Guna2TextBox();
-<<<<<<< HEAD
-            this.guna2PictureBox3 = new Guna.UI2.WinForms.Guna2PictureBox();
-=======
->>>>>>> 083d8b491a8abe3efaed7554b83608631e0f212d
+            this.guna2AnimateWindow3 = new Guna.UI2.WinForms.Guna2AnimateWindow(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox3)).BeginInit();
             this.SuspendLayout();
             // 
             // guna2PictureBox2
@@ -195,31 +191,12 @@
             this.guna2TextBox2.Size = new System.Drawing.Size(260, 41);
             this.guna2TextBox2.TabIndex = 3;
             // 
-<<<<<<< HEAD
-            // guna2PictureBox3
-            // 
-            this.guna2PictureBox3.Image = global::GUI.Properties.Resources.app_icon;
-            this.guna2PictureBox3.ImageRotate = 0F;
-            this.guna2PictureBox3.Location = new System.Drawing.Point(491, 65);
-            this.guna2PictureBox3.Name = "guna2PictureBox3";
-            this.guna2PictureBox3.Size = new System.Drawing.Size(96, 88);
-            this.guna2PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.guna2PictureBox3.TabIndex = 7;
-            this.guna2PictureBox3.TabStop = false;
-            // 
-=======
->>>>>>> 083d8b491a8abe3efaed7554b83608631e0f212d
             // formLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(17)))), ((int)(((byte)(51)))));
-<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(968, 520);
-            this.Controls.Add(this.guna2PictureBox3);
-=======
-            this.ClientSize = new System.Drawing.Size(1291, 640);
->>>>>>> 083d8b491a8abe3efaed7554b83608631e0f212d
             this.Controls.Add(this.guna2GradientButton1);
             this.Controls.Add(this.guna2HtmlLabel3);
             this.Controls.Add(this.guna2HtmlLabel2);
@@ -234,7 +211,6 @@
             this.Text = "formLogin";
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox3)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -255,8 +231,7 @@
         private Guna.UI2.WinForms.Guna2GradientButton guna2GradientButton1;
         private Guna.UI2.WinForms.Guna2AnimateWindow guna2AnimateWindow2;
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox2;
-<<<<<<< HEAD
-        private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox3;
+        private Guna.UI2.WinForms.Guna2AnimateWindow guna2AnimateWindow3;
 =======
 >>>>>>> 083d8b491a8abe3efaed7554b83608631e0f212d
     }
