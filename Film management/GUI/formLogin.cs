@@ -31,5 +31,13 @@ namespace GUI
         {
 
         }
+
+        private void guna2GradientButton1_Click(object sender, EventArgs e)
+        {
+            formMain fMain = new formMain();
+            this.Hide();
+            fMain.ShowDialog();
+            this.Show();
+        }
     }
 }
