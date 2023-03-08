@@ -16,3 +16,12 @@ C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\obj\Debug\
 C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\obj\Debug\DAL.dll
 C:\Users\thien\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\obj\Debug\DAL.pdb
+C:\Users\MSI-\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\bin\Debug\DAL.dll
+C:\Users\MSI-\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\bin\Debug\DAL.pdb
+C:\Users\MSI-\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\bin\Debug\DTO.dll
+C:\Users\MSI-\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\bin\Debug\DTO.pdb
+C:\Users\MSI-\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\MSI-\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\MSI-\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\MSI-\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\obj\Debug\DAL.dll
+C:\Users\MSI-\OneDrive\Máy tính\Cinema-Systems\Film management\DAL\obj\Debug\DAL.pdb
