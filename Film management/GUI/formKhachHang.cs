@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace GUI
 {
-    public partial class formLogout : Form
+    public partial class formKhachHang : Form
     {
-        public formLogout()
+        public formKhachHang()
         {
             InitializeComponent();
         }
