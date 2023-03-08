@@ -1,0 +1,11 @@
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\BLL\bin\Debug\BLL.dll
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\BLL\bin\Debug\BLL.pdb
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\BLL\bin\Debug\DAL.dll
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\BLL\bin\Debug\DTO.dll
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\BLL\bin\Debug\DAL.pdb
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\BLL\bin\Debug\DTO.pdb
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\BLL\obj\Debug\BLL.dll
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\BLL\obj\Debug\BLL.pdb

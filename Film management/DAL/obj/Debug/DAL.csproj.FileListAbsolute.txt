@@ -1,0 +1,9 @@
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DAL\bin\Debug\DAL.dll
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DAL\bin\Debug\DAL.pdb
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DAL\bin\Debug\DTO.dll
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DAL\bin\Debug\DTO.pdb
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DAL\obj\Debug\DAL.dll
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,6 @@
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DTO\bin\Debug\DTO.dll
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DTO\bin\Debug\DTO.pdb
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DTO\obj\Debug\DTO.dll
+F:\Users\Admin\Cinema management\Cinema-Systems\Film management\DTO\obj\Debug\DTO.pdb
