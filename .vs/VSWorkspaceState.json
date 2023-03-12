@@ -4,6 +4,10 @@
     "\\Film management",
     "\\Film management\\GUI"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\Film management\\GUI\\formKhachHang.Designer.cs",
+=======
+  "SelectedNode": "\\Film management\\GUI\\formLogin.cs",
+>>>>>>> c50420ded36720cf046ee029319cee0e1c6541a1
   "PreviewInSolutionExplorer": false
 }
