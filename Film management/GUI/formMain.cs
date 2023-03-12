@@ -16,5 +16,20 @@ namespace GUI
         {
             InitializeComponent();
         }
+
+        private void formMain_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2ControlBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2ControlBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

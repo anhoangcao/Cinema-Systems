@@ -34,10 +34,12 @@ namespace GUI
 
         private void guna2GradientButton1_Click(object sender, EventArgs e)
         {
-            formMain fMain = new formMain();
+            formKhachHang fKhachHang = new formKhachHang();
             this.Hide();
-            fMain.ShowDialog();
+            fKhachHang.ShowDialog();
             this.Show();
+
+
         }
 
         private void guna2ControlBox2_Click(object sender, EventArgs e)
