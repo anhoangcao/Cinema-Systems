@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Film management",
+    "\\Film management\\GUI"
   ],
+  "SelectedNode": "\\Film management\\GUI\\formLogin.cs",
   "PreviewInSolutionExplorer": false
 }
